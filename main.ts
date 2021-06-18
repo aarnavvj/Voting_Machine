@@ -17,6 +17,7 @@ input.onGesture(Gesture.Shake, function () {
     T = 0
     B = 0
 })
+// This code stimulates a voting booth and at the end someone can see who / what got the most votes.
 let B = 0
 let T = 0
 T = 0
